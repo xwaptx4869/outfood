@@ -2,20 +2,9 @@
 
 > A Vue.js project
 
-## Build Setup
+注：除了cnpm install 加载模块外，还需单独下载  stylus 和 better-scroll。
+cnpm install stylus 
+cnpm install better-scroll --save
 
-``` bash
-# install dependencies
-npm install
 
-# serve with hot reload at localhost:8080
-npm run dev
 
-# build for production with minification
-npm run build
-
-# build for production and view the bundle analyzer report
-npm run build --report
-```
-
-For a detailed explanation on how things work, check out the [guide](http://vuejs-templates.github.io/webpack/) and [docs for vue-loader](http://vuejs.github.io/vue-loader).
