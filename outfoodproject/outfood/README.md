@@ -2,7 +2,7 @@
 
 > 严格对照设计图完成的移动端外卖项目
 
-注：除了cnpm install 加载模块外，还需单独下载  stylus 和 better-scroll。<br>
+注：打开outfood文件夹，除了cnpm install 加载模块外，还需单独下载  stylus 和 better-scroll。<br>
 cnpm install stylus <br>
 cnpm install better-scroll --save
 
